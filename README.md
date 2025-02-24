@@ -2,6 +2,8 @@
 
 This project demonstrates Prim's algorithm for finding the Minimum Spanning Tree (MST) of a weighted undirected graph. The implementation includes step-by-step visualization using `networkx` and `matplotlib`, highlighting edges as they are added to the MST.
 
+![Visualizer Demo](demo.png)  
+
 ## Features
 - **Automatic Start Node**: The algorithm starts from the node connected to the edge with the smallest weight in the graph.
 - **Step-by-Step Visualization**: Watch the MST being built edge by edge, with selected edges highlighted in red.
